@@ -2,7 +2,7 @@
 
 ### And I'm Open for Job Offers! :tada:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-baldwin44/)
-[![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrewbaldwin44@outlook.com)
+[![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrew.baldwin44@outlook.com)
 
 <img width="50%" align="right" alt="developer" src="https://i.ibb.co/mzzYxcp/avatar-Working.jpg" />
 
