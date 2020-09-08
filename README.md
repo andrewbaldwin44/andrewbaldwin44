@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-baldwin44/)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrewbaldwin44@outlook.com)
 
-<img width="50%" align="right" alt="developer" src="./images/avatarWorking.jpg" />
+<img width="50%" align="right" alt="developer" src="https://i.ibb.co/mzzYxcp/avatar-Working.jpg" />
 
 ***About Me:***<br>
 I'm a skilled ***React Front-end Developer*** with a very strong variety of Back-End knowledge, tools, and technologies.
