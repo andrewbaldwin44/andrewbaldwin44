@@ -7,20 +7,20 @@
 <img width="50%" align="right" alt="developer" src="https://i.ibb.co/mzzYxcp/avatar-Working.jpg" />
 
 ***About Me:***<br>
-I'm a skilled ***React Front-end Developer*** with a very strong variety of Back-End knowledge, tools, and technologies.
+I'm a skilled ***React Front-end Developer*** with a strong variety of Back-End knowledge, tools, and technologies.
 <br><br>
-As a problem solver and a creative thinker, I love bringing my ideas to life on the web.
+I am a young developer, who is eager for experience and to share my knowledge and ideas with others. As a problem solver and a creative thinker, I love bringing my ideas to life on the web!
 <br>
 
 ***My Coding Skills:***<br>
-I am highly skilled in HTML | CSS | JavaScript | React.js | Redux.js | Node.js | Ruby | Ruby on Rails | Python | Django
+I love to code in **JavaScript**, **Ruby**, and **Python** and I have experience working in a variety of popular frameworks and libraries including React.js, Redux.js, Node.js, Ruby on Rails, and Django.
 
-I additionally have many tools at my disposal including Git | GitHub | SQL | NoSQL | Firebase | Cloud Firestore | MongoDB | Web Sockets | Server Deployment
+I additionally have many tools at my disposal including Git, GitHub, SQL, NoSQL, Firebase, Cloud Firestore, MongoDB, Web Sockets, and Server Deployment
 
 ***My Background:***<br>
-I am a dedicated and highly self taught web developer. My coding journey began through [The Odin Project](https://www.theodinproject.com/), an open source coding curriculum teaching full stack web development. From there, I became a successful graduate from Concordia University Bootcamps!
+I am a dedicated and self taught web developer. My coding journey began through [The Odin Project](https://www.theodinproject.com/), an open source coding curriculum teaching full stack web development. From there, I became a successful graduate from Concordia University Bootcamps!
 
-I apply my coding skills everyday in projects I am passionate about. I'm always eager to learn new things and try out new technologies! I also love to help and teach others. Find me mentoring over on [exercism.io](https://exercism.io/about)
+I apply my coding skills everyday in projects I am passionate about. I'm always eager to learn new things and try out new technologies! I also love to help and teach others. Find me mentoring over on [exercism.io](https://exercism.io/about)!
 
 ***Let's work together!***
 <br>
