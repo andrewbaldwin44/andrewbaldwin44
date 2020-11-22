@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Andrew, a Full-Stack Web Developer!
+<h2 align="center">Hi there 👋 I'm Andrew, a Full-Stack Web Developer!</h2>
 
 <div align="center">
   <img src="./images/avatar-working.png" alt="avatar" height="300px" />
@@ -40,14 +40,14 @@
 
 **Teaching and Learning on Exercism**
 
-[![Exercism Stats](https://exercism-badges.herokuapp.com/andrewbaldwin44?theme=monokai)](https://exercism-badges.herokuapp.com/andrewbaldwin44?theme=monokai)
+[![Andrew's Exercism Stats](https://exercism-badges.herokuapp.com/andrewbaldwin44?theme=monokai)](https://exercism.io/profiles/andrewbaldwin44)
 
 **Ranking Up on CodeWars**<br><br />
 [![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 'My Honor Badge')
 
 **Working on Various Projects**
 
-[![Andrew Baldwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewbaldwin44&count_private=true&include_all_commits=true&theme=monokai)](https://github.com/andrewbaldwin44?tab=repositories)
+[![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewbaldwin44&count_private=true&include_all_commits=true&theme=monokai)](https://github.com/andrewbaldwin44?tab=repositories)
 
 ### Let's work together!
 
