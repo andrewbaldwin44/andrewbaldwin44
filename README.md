@@ -40,15 +40,7 @@
 
 **Teaching and Learning on Exercism**
 
-- Total Mentored: 229
-- Recent Exercises:
-
-  - Leap (TypeScript)
-  - Resistor Color Duo (TypeScript)
-  - Difference Of Squares (TypeScript)
-  - Reverse String (TypeScript)
-  - Armstrong Numbers (TypeScript)
-<br>
+[![Exercism Stats](https://exercism-badges.herokuapp.com/andrewbaldwin44?theme=monokai)](https://exercism-badges.herokuapp.com/andrewbaldwin44?theme=monokai)
 
 **Ranking Up on CodeWars**<br><br />
 [![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 'My Honor Badge')
