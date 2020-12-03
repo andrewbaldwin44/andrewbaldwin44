@@ -4,7 +4,7 @@ const helpers = [
   {
     name: "print_item",
     fn: function (name: string, slug: string) {
-      const url = `https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/${slug}.png`;
+      const url = `https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/${slug}.svg`;
       return new SafeString(`<img src="${url}" alt="${name}" height="40px">`);
     },
   },

@@ -5,26 +5,28 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/html.png" alt="HTML" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/css.png" alt="CSS" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/javascript.png" alt="JavaScript" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/typescript.png" alt="TypeScript" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/react.png" alt="React.js" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/redux.png" alt="Redux.js" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/nodejs.png" alt="Node.js" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/ruby.png" alt="Ruby" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/rails.png" alt="Ruby on Rails" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/python.png" alt="Python" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/django.png" alt="Django" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/git.png" alt="Git" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/github.png" alt="GitHub" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/sql.png" alt="SQL" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/nosql.png" alt="NoSQL" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/firebase.png" alt="Firebase" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/firebase_realtime.png" alt="Cloud Firestore" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/mongodb.png" alt="MongoDB" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/sockets.png" alt="Web Sockets" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/heroku.png" alt="Deployment" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/html5.svg" alt="HTML5" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/css3.svg" alt="CSS3" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/javascript.svg" alt="JavaScript" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/typescript.svg" alt="TypeScript" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/react.svg" alt="React.js" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/redux.svg" alt="Redux.js" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/next-dot-js.svg" alt="Next.js" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/node-dot-js.svg" alt="Node.js" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/ruby.svg" alt="Ruby" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/rubyonrails.svg" alt="Ruby on Rails" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/python.svg" alt="Python" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/django.svg" alt="Django" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/git.svg" alt="Git" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/postgresql.svg" alt="PostgreSQL" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/mysql.svg" alt="MySQL" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/sqlite.svg" alt="SQLite" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/firebase.svg" alt="Firebase" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/mongodb.svg" alt="MongoDB" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/faunadb.svg" alt="FaunaDB" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/socket-dot-io.svg" alt="Socket.io" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/heroku.svg" alt="Heroku" height="40px">
+    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/vercel.svg" alt="Vercel" height="40px">
 </div>
 
 ### What I've Been Up To:
