@@ -42,7 +42,7 @@
 
 **Teaching and Learning on Exercism**
 
-[![Andrew's Exercism Stats](https://exercism-badges.herokuapp.com/andrewbaldwin44?theme=monokai)](https://exercism.io/profiles/andrewbaldwin44)
+[![Andrew's Exercism stats](https://exercism-badges.vercel.app/api?username=andrewbaldwin44&theme=monokai)](https://exercism.io/profiles/andrewbaldwin44)
 
 **Ranking Up on CodeWars**<br><br />
 [![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 'My Honor Badge')
