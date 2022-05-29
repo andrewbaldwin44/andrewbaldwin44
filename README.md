@@ -33,7 +33,7 @@
 
 **My Personal Profile**
 
-<a href="https://andrewbaldwin.herokuapp.com/" target="_blank">
+<a href="https://andrewbaldwin.dev/" target="_blank">
   <img
     src="https://img.shields.io/badge/My-Profile-%23D14836.svg?&style=for-the-badge&logoColor=white" alt="My Profile"
     height="40"
