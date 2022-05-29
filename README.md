@@ -45,7 +45,7 @@
 [![Andrew's Exercism stats](https://exercism-badges.vercel.app/api?username=andrewbaldwin44&theme=monokai)](https://exercism.io/profiles/andrewbaldwin44)
 
 **Ranking Up on CodeWars**<br><br />
-[![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 'My Honor Badge')
+[![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 "My Honor Badge")
 
 **Working on Various Projects**
 
