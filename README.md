@@ -1,7 +1,12 @@
 <h2 align="center">Hi there 👋 I'm Andrew, a Full-Stack Web Developer!</h2>
 
 <div align="center">
-  <img src="./images/avatar-working.png" alt="avatar" height="300px" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./images/avatar-working.jpeg">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/avatar-working-dark.jpeg">
+    <img src="./images/avatar-working.jpeg" />
+  </picture>
+
 </div>
 
 <div align="center">
@@ -45,7 +50,7 @@
 [![Andrew's Exercism stats](https://exercism-badges.vercel.app/api?username=andrewbaldwin44&theme=monokai)](https://exercism.io/profiles/andrewbaldwin44)
 
 **Ranking Up on CodeWars**<br><br />
-[![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 "My Honor Badge")
+[![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 'My Honor Badge')
 
 **Working on Various Projects**
 

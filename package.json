@@ -1,17 +1,11 @@
 {
   "name": "andrewbaldwin-github-readme",
   "version": "1.0.0",
-  "description": "Github README",
-  "main": "index.js",
-  "scripts": {
-    "compile": "rimraf ./build && ./node_modules/typescript/bin/tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:andrewbaldwin44/andrewbaldwin44.git"
-  },
   "author": "Andrew Baldwin",
+  "description": "Github README",
+  "scripts": {
+    "build": "ts-node ./src/build"
+  },
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "@types/node": "^14.0.23",
@@ -19,6 +13,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "handlebars": "^4.7.6"
+    "handlebars": "^4.7.6",
+    "ts-node": "^10.9.2"
   }
 }
