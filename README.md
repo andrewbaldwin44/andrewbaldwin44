@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I'm Andrew, a Full-Stack Web Developer!</h2>
+<h1 align="center">Hi there 👋 I'm Andrew, Full-Stack Web Developer!</h1>
 
 <div align="center">
   <picture>
@@ -24,14 +24,9 @@
     <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/django.svg" alt="Django" height="40px">
     <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/git.svg" alt="Git" height="40px">
     <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/postgresql.svg" alt="PostgreSQL" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/mysql.svg" alt="MySQL" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/sqlite.svg" alt="SQLite" height="40px">
     <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/firebase.svg" alt="Firebase" height="40px">
     <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/mongodb.svg" alt="MongoDB" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/faunadb.svg" alt="FaunaDB" height="40px">
     <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/socket-dot-io.svg" alt="Socket.io" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/heroku.svg" alt="Heroku" height="40px">
-    <img src="https://raw.githubusercontent.com/andrewbaldwin44/andrewbaldwin44/master/images/vercel.svg" alt="Vercel" height="40px">
 </div>
 
 ### What I've Been Up To:
@@ -50,11 +45,11 @@
 [![Andrew's Exercism stats](https://exercism-badges.vercel.app/api?username=andrewbaldwin44&theme=monokai)](https://exercism.io/profiles/andrewbaldwin44)
 
 **Ranking Up on CodeWars**<br><br />
-[![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 'My Honor Badge')
+[![CodeWars](https://www.codewars.com/users/andrewbaldwin44/badges/large)](https://www.codewars.com/users/andrewbaldwin44 "My Honor Badge")
 
 **Working on Various Projects**
 
-[![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewbaldwin44&count_private=true&include_all_commits=true&theme=monokai)](https://github.com/andrewbaldwin44?tab=repositories)
+[![Andrew's GitHub Stats](https://github-readme-stats-nu-olive.vercel.app/api?username=andrewbaldwin44&count_private=true&include_all_commits=true&theme=monokai)](https://github.com/andrewbaldwin44?tab=repositories)
 
 ### Let's work together!
 
